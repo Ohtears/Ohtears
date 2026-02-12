@@ -21,5 +21,5 @@
 <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
 <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/> </a>
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
-<a href="https://en.wikipedia.org/wiki/VHDL" target="_blank" rel="noreferrer"> <img src="[https://www.vectorlogo.zone/logos/gnu_octave/gnu_octave-icon.svg](https://icon-icons.com/download-file?file=https%3A%2F%2Fimages.icon-icons.com%2F2148%2FPNG%2F512%2Fvhdl_icon_131901.png&id=131901&pack_or_individual=pack)" alt="vhdl" width="40" height="40"/> </a>
+<a href="https://en.wikipedia.org/wiki/VHDL" target="_blank" rel="noreferrer"> <img src="https://uxwing.com/wp-content/themes/uxwing/download/web-app-development/vhdl-code-file-black-icon.png" alt="vhdl" width="40" height="40"/> </a>
 </p>
