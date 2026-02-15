@@ -3,7 +3,7 @@
 
 <h3 align="left">About Me:</h3>
 
-- 💻 Backend Developer passionate about clean architecture and Domain Driven Desgin.
+- 💻 Backend Developer passionate about clean architecture and Domain Driven Design.
 - ⚡ Hardware enthusiast with VHDL project experience
 - 🐧 Linux user (I use Arch btw)
 - 📫 How to reach me: ashkanmarali@gmail.com
